@@ -1,3 +1,5 @@
+"use client";
+
 import { useEffect, useState, useCallback } from "react";
 import { motion } from "framer-motion";
 import { CommandHeader } from "@/components/dashboard/CommandHeader";
